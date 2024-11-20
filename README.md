@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **pspreethi/pspreethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Sai Preethi Poka! 👋
+
+🌟 Aspiring AI Enthusiast | Data Analyst | Open Source Contributor 🌟
+
+Welcome to my GitHub profile! I am passionate about solving problems with data, exploring AI and machine learning, and building impactful solutions.
+
+## 🌱 What I'm Currently Up To
+
+🚀 Learning and exploring Generative AI, MLOps, and Fairness in AI.
+🧑‍💻 Working on open-source projects related to data science.
+📖 Participating in Kaggle and Google Generative AI intensive courses.
+
+
