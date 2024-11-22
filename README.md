@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a data enthusiast with a passion for solving
 
 🚀 Learning and exploring Generative AI <br>
 🧑‍💻 Working on projects related to data science. <br>
-📖 Participating in Kaggle and Google Generative AI intensive courses. <br>
+📖 Participating in Kaggle and Google Generative AI courses. <br>
 
 
 ## 🌟 Featured Projects
