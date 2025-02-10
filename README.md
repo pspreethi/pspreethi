@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I’m a data enthusiast with a passion for solving real-world problems using data science and analytics. My projects are focused on exploring insights, building predictive models, and applying responsible AI principles. I enjoy working with diverse datasets—from mobility trends to health metrics—and developing meaningful solutions through collaboration and creativity.
 
-## 🌱 What I'm Currently Up To
-
-🚀 Learning and exploring Generative AI <br>
-🧑‍💻 Working on projects related to data science. <br>
-📖 Participating in Kaggle and Google Generative AI courses. <br>
-
 
 ## 🌟 Featured Projects
 
