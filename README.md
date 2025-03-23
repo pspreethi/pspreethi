@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Sai Preethi Poka! 👋
+## Hi, I'm Sai Preethi Poka! 👋
 
-🌟 Aspiring AI Enthusiast | Data Scientist 🌟
-
-Welcome to my GitHub profile! I’m a data enthusiast with a passion for solving real-world problems using data science and analytics. My projects are focused on exploring insights, building predictive models, and applying responsible AI principles. I enjoy working with diverse datasets—from mobility trends to health metrics—and developing meaningful solutions through collaboration and creativity.
-
+I'm passionate about using data to uncover insights, test ideas, and solve meaningful problems. My interests span product experimentation, analytics, and machine learning, with a growing curiosity in causal inference. I enjoy working across domains, from product and user behavior to market and operational analysis to drive smarter, evidence-based decisions.
 
 
