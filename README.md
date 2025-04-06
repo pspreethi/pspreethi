@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm passionate about using data to uncover insights, test ideas, and solve meaningful problems. My interests span product experimentation, analytics, and machine learning, with a growing curiosity in causal inference. I enjoy working across domains, from product and user behavior to market and operational analysis to drive smarter, evidence-based decisions.
 
-⚡ View my [Portfolio](https://pspreethi.github.io/Sai-Preethi-Poka/)
+⚡ View my [Portfolio](https://pspreethi.github.io/portfolio/)
